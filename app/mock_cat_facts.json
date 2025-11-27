@@ -1,0 +1,2990 @@
+[
+    {
+        "_id": "9fb2b3fda82b0d7e32825f94",
+        "__v": 0,
+        "text": "Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor.",
+        "updatedAt": "2020-10-20T06:22:11.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "f2bc0f5b8e8412d0f1ca1a9c",
+        "__v": 0,
+        "text": "When a cat chases its prey, it keeps its head level. Dogs and humans bob their heads up and down.",
+        "updatedAt": "2020-06-22T02:57:57.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "03fe754fb46f6df7869d9b15",
+        "__v": 0,
+        "text": "The technical term for a cat’s hairball is a “bezoar.”",
+        "updatedAt": "2020-10-20T07:55:59.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "3cc3f987755644666f0c3db2",
+        "__v": 0,
+        "text": "A group of cats is called a “clowder.”",
+        "updatedAt": "2020-06-22T04:44:47.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "89e7551b2721b3dbf3d04df5",
+        "__v": 0,
+        "text": "A cat can’t climb head first down a tree because every claw on a cat’s paw points the same way. To get down from a tree, a cat must back down.",
+        "updatedAt": "2020-12-25T01:06:18.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "9e0aec54dc26455f0d8ce4bb",
+        "__v": 0,
+        "text": "Cats make about 100 different sounds. Dogs make only about 10.",
+        "updatedAt": "2020-05-18T09:41:14.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "76cd39d3f15bb59f8b0bd484",
+        "__v": 0,
+        "text": "Every year, nearly four million cats are eaten in Asia.",
+        "updatedAt": "2020-12-01T18:07:58.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "6030fa56a9406fb890cb1f63",
+        "__v": 0,
+        "text": "There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.",
+        "updatedAt": "2020-11-20T03:12:42.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "ad903566b6ac10cb727c2452",
+        "__v": 0,
+        "text": "Approximately 24 cat skins can make a coat.",
+        "updatedAt": "2020-10-26T04:18:28.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "e72cb96a209dad4072bf673c",
+        "__v": 0,
+        "text": "While it is commonly thought that the ancient Egyptians were the first to domesticate cats, the oldest known pet cat was recently found in a 9,500-year-old grave on the Mediterranean island of Cyprus. This grave predates early Egyptian art depicting cats by 4,000 years or more.",
+        "updatedAt": "2020-02-08T08:09:39.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "a736134bbfb4e11bd06b17aa",
+        "__v": 0,
+        "text": "During the time of the Spanish Inquisition, Pope Innocent VIII condemned cats as evil and thousands of cats were burned. Unfortunately, the widespread killing of cats led to an explosion of the rat population, which exacerbated the effects of the Black Death.",
+        "updatedAt": "2020-02-06T02:01:22.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "6ec3954c47d4e7408cc79849",
+        "__v": 0,
+        "text": "During the Middle Ages, cats were associated with withcraft, and on St. John’s Day, people all over Europe would stuff them into sacks and toss the cats into bonfires. On holy days, people celebrated by tossing cats from church towers.",
+        "updatedAt": "2020-01-21T10:50:43.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "d246e66426f83123c45c0e44",
+        "__v": 0,
+        "text": "The first cat in space was a French cat named Felicette (a.k.a. “Astrocat”) In 1963, France blasted the cat into outer space. Electrodes implanted in her brains sent neurological signals back to Earth. She survived the trip.",
+        "updatedAt": "2020-10-06T05:08:31.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "a9e7a9e7a61f2eb2d09af20c",
+        "__v": 0,
+        "text": "The group of words associated with cat (catt, cath, chat, katze) stem from the Latin catus, meaning domestic cat, as opposed to feles, or wild cat.",
+        "updatedAt": "2020-11-06T00:42:53.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "3087239bf4520c3d0da415bd",
+        "__v": 0,
+        "text": "The term “puss” is the root of the principal word for “cat” in the Romanian term pisica and the root of secondary words in Lithuanian (puz) and Low German puus. Some scholars suggest that “puss” could be imitative of the hissing sound used to get a cat’s attention. As a slang word for the female pudenda, it could be associated with the connotation of a cat being soft, warm, and fuzzy.",
+        "updatedAt": "2020-05-06T03:10:41.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "5dc12137d76094e75b42170d",
+        "__v": 0,
+        "text": "Approximately 40,000 people are bitten by cats in the U.S. annually.",
+        "updatedAt": "2020-07-26T06:57:05.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "2f655729383c2752f55b4d37",
+        "__v": 0,
+        "text": "Cats are the world's most popular pets, outnumbering dogs by as many as three to one",
+        "updatedAt": "2020-07-30T03:08:17.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "50a95edc4a2b2c3b9a4eea7b",
+        "__v": 0,
+        "text": "Cats are North America’s most popular pets: there are 73 million cats compared to 63 million dogs. Over 30% of households in North America own a cat.",
+        "updatedAt": "2020-05-19T19:42:56.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "d2d710a06c03d69863080e31",
+        "__v": 0,
+        "text": "According to Hebrew legend, Noah prayed to God for help protecting all the food he stored on the ark from being eaten by rats. In reply, God made the lion sneeze, and out popped a cat.",
+        "updatedAt": "2020-03-05T14:43:01.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "239951e94c81831c521e2f79",
+        "__v": 0,
+        "text": "A cat’s hearing is better than a dog’s. And a cat can hear high-frequency sounds up to two octaves higher than a human.",
+        "updatedAt": "2020-12-19T02:41:17.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "0124759dff574e2d2a0f2cd0",
+        "__v": 0,
+        "text": "A cat can travel at a top speed of approximately 31 mph (49 km) over a short distance.",
+        "updatedAt": "2020-03-14T11:39:31.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "9012b6b7f79aa305b3544ba8",
+        "__v": 0,
+        "text": "A cat rubs against people not only to be affectionate but also to mark out its territory with scent glands around its face. The tail area and paws also carry the cat’s scent.",
+        "updatedAt": "2020-07-21T02:32:05.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "a59494515567eba060dbf4b1",
+        "__v": 0,
+        "text": "Researchers are unsure exactly how a cat purrs. Most veterinarians believe that a cat purrs by vibrating vocal folds deep in the throat. To do this, a muscle in the larynx opens and closes the air passage about 25 times per second.",
+        "updatedAt": "2020-02-08T00:58:52.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "1fd28f511ab5c188c63ab244",
+        "__v": 0,
+        "text": "When a family cat died in ancient Egypt, family members would mourn by shaving off their eyebrows. They also held elaborate funerals during which they drank wine and beat their breasts. The cat was embalmed with a sculpted wooden mask and the tiny mummy was placed in the family tomb or in a pet cemetery with tiny mummies of mice.",
+        "updatedAt": "2020-04-01T15:50:16.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "a73e74753bdbfc6472f83222",
+        "__v": 0,
+        "text": "In 1888, more than 300,000 mummified cats were found an Egyptian cemetery. They were stripped of their wrappings and carted off to be used by farmers in England and the U.S. for fertilizer.",
+        "updatedAt": "2020-05-25T23:46:07.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "be911386898aa1116bde57c5",
+        "__v": 0,
+        "text": "Most cats give birth to a litter of between one and nine kittens. The largest known litter ever produced was 19 kittens, of which 15 survived.",
+        "updatedAt": "2020-08-16T13:43:32.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "cb28945a7e74e3dd942c1eda",
+        "__v": 0,
+        "text": "Smuggling a cat out of ancient Egypt was punishable by death. Phoenician traders eventually succeeded in smuggling felines, which they sold to rich people in Athens and other important cities.",
+        "updatedAt": "2020-10-12T09:42:39.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "8975e693edbc224126b01a7a",
+        "__v": 0,
+        "text": "The earliest ancestor of the modern cat lived about 30 million years ago. Scientists called it the Proailurus, which means “first cat” in Greek. The group of animals that pet cats belong to emerged around 12 million years ago.",
+        "updatedAt": "2020-02-08T14:14:06.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "30174c9c7432527ada5153c4",
+        "__v": 0,
+        "text": "The biggest wildcat today is the Siberian Tiger. It can be more than 12 feet (3.6 m) long (about the size of a small car) and weigh up to 700 pounds (317 kg).",
+        "updatedAt": "2020-01-25T22:03:17.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "79d8ee2ac6a9cdebb6ef1250",
+        "__v": 0,
+        "text": "Cats have 300 million neurons; dogs have about 160 million",
+        "updatedAt": "2020-03-16T21:43:10.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "3ff5d0e494183edc0c9742de",
+        "__v": 0,
+        "text": "A cat’s brain is biologically more similar to a human brain than it is to a dog’s. Both humans and cats have identical regions in their brains that are responsible for emotions.",
+        "updatedAt": "2020-04-24T08:05:22.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "b0d860660316e91b4d405220",
+        "__v": 0,
+        "text": "Many Egyptians worshipped the goddess Bast, who had a woman’s body and a cat’s head.",
+        "updatedAt": "2020-10-26T23:00:01.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "0484c1ffb48485e2b00f11c8",
+        "__v": 0,
+        "text": "Mohammed loved cats and reportedly his favorite cat, Muezza, was a tabby. Legend says that tabby cats have an “M” for Mohammed on top of their heads because Mohammad would often rest his hand on the cat’s head.",
+        "updatedAt": "2020-03-07T18:30:04.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "77a2c4db22bb8072398dece3",
+        "__v": 0,
+        "text": "While many parts of Europe and North America consider the black cat a sign of bad luck, in Britain and Australia, black cats are considered lucky.",
+        "updatedAt": "2020-07-25T11:55:08.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "800575a34656de4e0c79b967",
+        "__v": 0,
+        "text": "The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.",
+        "updatedAt": "2020-04-10T01:12:56.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "56c9829fb7500e11a70edd20",
+        "__v": 0,
+        "text": "The smallest pedigreed cat is a Singapura, which can weigh just 4 lbs (1.8 kg), or about five large cans of cat food. The largest pedigreed cats are Maine Coon cats, which can weigh 25 lbs (11.3 kg), or nearly twice as much as an average cat weighs.",
+        "updatedAt": "2020-02-01T11:45:40.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "1e4f595503408f048702bed4",
+        "__v": 0,
+        "text": "Some cats have survived falls of over 65 feet (20 meters), due largely to their “righting reflex.” The eyes and balance organs in the inner ear tell it where it is in space so the cat can land on its feet. Even cats without a tail have this ability.",
+        "updatedAt": "2020-02-25T22:10:31.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "69616b7a4555b6b3053e4d0f",
+        "__v": 0,
+        "text": "Some Siamese cats appear cross-eyed because the nerves from the left side of the brain go to mostly the right eye and the nerves from the right side of the brain go mostly to the left eye. This causes some double vision, which the cat tries to correct by “crossing” its eyes.",
+        "updatedAt": "2020-08-30T10:47:08.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "09982d5e995df2a7513157f9",
+        "__v": 0,
+        "text": "Researchers believe the word “tabby” comes from Attabiyah, a neighborhood in Baghdad, Iraq. Tabbies got their name because their striped coats resembled the famous wavy patterns in the silk produced in this city.",
+        "updatedAt": "2020-09-12T05:46:25.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "71ba1df835fc1476dbba8be3",
+        "__v": 0,
+        "text": "Cats have \"nine lives\" thanks to a flexible spine and powerful leg and back muscles",
+        "updatedAt": "2020-10-22T07:39:07.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "4ad021db75b942417ec5d6be",
+        "__v": 0,
+        "text": "A cat can jump up to five times its own height in a single bound.",
+        "updatedAt": "2020-07-17T05:27:13.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "e1550aa4911635079f5c60e7",
+        "__v": 0,
+        "text": "Cats hate the water because their fur does not insulate well when it’s wet. The Turkish Van, however, is one cat that likes swimming. Bred in central Asia, its coat has a unique texture that makes it water resistant.",
+        "updatedAt": "2020-12-10T01:33:27.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "62b8605844cdd5ac7140abf3",
+        "__v": 0,
+        "text": "The Egyptian Mau is probably the oldest breed of cat. In fact, the breed is so ancient that its name is the Egyptian word for “cat.”",
+        "updatedAt": "2020-04-12T09:11:01.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "968f0f80b87882f49dfc8261",
+        "__v": 0,
+        "text": "The first commercially cloned pet was a cat named \"Little Nicky.\" He cost his owner $50,000, making him one of the most expensive cats ever.",
+        "updatedAt": "2020-08-22T22:59:28.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "611bac621ea8852b985da450",
+        "__v": 0,
+        "text": "A cat usually has about 12 whiskers on each side of its face.",
+        "updatedAt": "2020-09-22T21:33:01.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "8257c6afbd559366ca7b330d",
+        "__v": 0,
+        "text": "A cat’s eyesight is both better and worse than humans. It is better because cats can see in much dimmer light and they have a wider peripheral view. It’s worse because they don’t see color as well as humans do. Scientists believe grass appears red to cats.",
+        "updatedAt": "2020-10-31T16:45:02.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "748666ab85d6f5bb3d1fa940",
+        "__v": 0,
+        "text": "Spanish-Jewish folklore recounts that Adam’s first wife, Lilith, became a black vampire cat, sucking the blood from sleeping babies. This may be the root of the superstition that a cat will smother a sleeping baby or suck out the child’s breath.",
+        "updatedAt": "2020-05-05T21:32:50.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "cce13dae2deb91c9813302c3",
+        "__v": 0,
+        "text": "Perhaps the most famous comic cat is the Cheshire Cat in Lewis Carroll’s Alice in Wonderland. With the ability to disappear, this mysterious character embodies the magic and sorcery historically associated with cats.",
+        "updatedAt": "2020-03-29T12:47:57.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "b5e2a527e9c168fd18348bdf",
+        "__v": 0,
+        "text": "The smallest wildcat today is the Black-footed cat. The females are less than 20 inches (50 cm) long and can weigh as little as 2.5 lbs (1.2 kg).",
+        "updatedAt": "2020-05-21T20:42:04.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "e45c2fb0264a9fee1db45538",
+        "__v": 0,
+        "text": "On average, cats spend 2/3 of every day sleeping. That means a nine-year-old cat has been awake for only three years of its life.",
+        "updatedAt": "2020-11-10T20:09:55.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "3d7bd9c255e1c096e867544e",
+        "__v": 0,
+        "text": "In the original Italian version of Cinderella, the benevolent fairy godmother figure was a cat.",
+        "updatedAt": "2020-01-25T16:36:29.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "380d752fdacf71466f17d091",
+        "__v": 0,
+        "text": "The little tufts of hair in a cat’s ear that help keep out dirt direct sounds into the ear, and insulate the ears are called “ear furnishings.”",
+        "updatedAt": "2020-05-06T06:18:36.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "b5363f20d07f8b9519af9adb",
+        "__v": 0,
+        "text": "The ability of a cat to find its way home is called “psi-traveling.” Experts think cats either use the angle of the sunlight to find their way or that cats have magnetized cells in their brains that act as compasses.",
+        "updatedAt": "2020-05-05T01:43:18.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "8eb88aa3be29a713ad384708",
+        "__v": 0,
+        "text": "Isaac Newton invented the cat flap. Newton was experimenting in a pitch-black room. Spithead, one of his cats, kept opening the door and wrecking his experiment. The cat flap kept both Newton and Spithead happy.",
+        "updatedAt": "2020-03-06T11:27:27.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "3b436be348ac1f7c8eb94789",
+        "__v": 0,
+        "text": "The world’s rarest coffee, Kopi Luwak, comes from Indonesia where a wildcat known as the luwak lives. The cat eats coffee berries and the coffee beans inside pass through the stomach. The beans are harvested from the cat’s dung heaps and then cleaned and roasted. Kopi Luwak sells for about $500 for a 450 g (1 lb) bag.",
+        "updatedAt": "2020-11-12T10:53:31.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "62e2bfe7d172217426cf1f9f",
+        "__v": 0,
+        "text": "A cat’s jaw can’t move sideways, so a cat can’t chew large chunks of food.",
+        "updatedAt": "2020-02-13T13:13:41.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "5a182fc014e57728493d8c96",
+        "__v": 0,
+        "text": "A cat almost never meows at another cat, mostly just humans. Cats typically will spit, purr, and hiss at other cats.",
+        "updatedAt": "2020-03-30T08:32:35.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "175ff5d191307f5e5a3b6bab",
+        "__v": 0,
+        "text": "Like humans, cats tend to favor one paw over another",
+        "updatedAt": "2020-10-02T05:06:23.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "c29c3a53aaef76a47e426d71",
+        "__v": 0,
+        "text": "Female cats tend to be right pawed, while male cats are more often left pawed. Interestingly, while 90% of humans are right handed, the remaining 10% of lefties also tend to be male.",
+        "updatedAt": "2020-03-30T02:58:09.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "2ef611a864d3001b177435ac",
+        "__v": 0,
+        "text": "A cat’s back is extremely flexible because it has up to 53 loosely fitting vertebrae. Humans only have 34.",
+        "updatedAt": "2020-04-25T13:34:35.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "80eb0905b0cb9302945c46a6",
+        "__v": 0,
+        "text": "All cats have claws, and all except the cheetah sheath them when at rest.",
+        "updatedAt": "2020-12-17T15:09:00.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "f597eff3fb20417b15a92c9b",
+        "__v": 0,
+        "text": "Two members of the cat family are distinct from all others: the clouded leopard and the cheetah. The clouded leopard does not roar like other big cats, nor does it groom or rest like small cats. The cheetah is unique because it is a running cat; all others are leaping cats. They are leaping cats because they slowly stalk their prey and then leap on it.",
+        "updatedAt": "2020-07-25T05:28:37.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "5504863189fca3ff88122a61",
+        "__v": 0,
+        "text": "A cat lover is called an Ailurophilia (Greek: cat+lover).",
+        "updatedAt": "2020-11-22T18:01:19.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "b9dc5d94ef9a464a601ac527",
+        "__v": 0,
+        "text": "In Japan, cats are thought to have the power to turn into super spirits when they die. This may be because according to the Buddhist religion, the body of the cat is the temporary resting place of very spiritual people.i",
+        "updatedAt": "2020-05-10T08:30:07.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "3bdb1e51716539c1410d4352",
+        "__v": 0,
+        "text": "Most cats had short hair until about 100 years ago, when it became fashionable to own cats and experiment with breeding.",
+        "updatedAt": "2020-12-15T03:18:11.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "8a852bbcac66d6b1218d8509",
+        "__v": 0,
+        "text": "One reason that kittens sleep so much is because a growth hormone is released only during sleep.",
+        "updatedAt": "2020-07-31T18:56:23.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "ec97080a2d5280ea71d88058",
+        "__v": 0,
+        "text": "Cats have about 130,000 hairs per square inch (20,155 hairs per square centimeter).",
+        "updatedAt": "2020-08-13T04:04:18.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "61b31e4a48d52fc7d5017e52",
+        "__v": 0,
+        "text": "The heaviest cat on record is Himmy, a Tabby from Queensland, Australia. He weighed nearly 47 pounds (21 kg). He died at the age of 10.",
+        "updatedAt": "2020-02-27T19:38:49.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "87424bb79380cf66999a601a",
+        "__v": 0,
+        "text": "The oldest cat on record was Crème Puff from Austin, Texas, who lived from 1967 to August 6, 2005, three days after her 38th birthday. A cat typically can live up to 20 years, which is equivalent to about 96 human years.",
+        "updatedAt": "2020-03-26T10:00:28.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "8a06b7b1cd2161bbf4164651",
+        "__v": 0,
+        "text": "The lightest cat on record is a blue point Himalayan called Tinker Toy, who weighed 1 pound, 6 ounces (616 g). Tinker Toy was 2.75 inches (7 cm) tall and 7.5 inches (19 cm) long.",
+        "updatedAt": "2020-09-28T03:02:55.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "1caa613d795afe6b150c39dd",
+        "__v": 0,
+        "text": "Approximately 1/3 of cat owners think their pets are able to read their minds.",
+        "updatedAt": "2020-07-31T22:11:49.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "19ebffce26e3d0ffb24328e7",
+        "__v": 0,
+        "text": "The tiniest cat on record is Mr. Pebbles, a 2-year-old cat that weighed 3 lbs (1.3 k) and was 6.1 inches (15.5 cm) high.",
+        "updatedAt": "2020-06-07T14:53:12.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "50eebf87b432e976d45462d6",
+        "__v": 0,
+        "text": "A commemorative tower was built in Scotland for a cat named Towser, who caught nearly 30,000 mice in her lifetime.",
+        "updatedAt": "2020-12-14T12:54:43.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "7ab81593b56793a45be836d9",
+        "__v": 0,
+        "text": "In the 1750s, Europeans introduced cats into the Americas to control pests.",
+        "updatedAt": "2020-02-18T21:03:00.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "216ed684abf0c7e0600c0f2d",
+        "__v": 0,
+        "text": "The first cat show was organized in 1871 in London. Cat shows later became a worldwide craze.",
+        "updatedAt": "2020-08-09T16:06:33.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "f2a9dcd8e38e091c0e32ca25",
+        "__v": 0,
+        "text": "The first cartoon cat was Felix the Cat in 1919. In 1940, Tom and Jerry starred in the first theatrical cartoon “Puss Gets the Boot.” In 1981 Andrew Lloyd Weber created the musical Cats, based on T.S. Eliot’s Old Possum’s Book of Practical Cats.",
+        "updatedAt": "2020-08-18T07:34:16.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "97827f8e5a2b24fa66413a2a",
+        "__v": 0,
+        "text": "The normal body temperature of a cat is between 100.5 ° and 102.5 °F. A cat is sick if its temperature goes below 100 ° or above 103 °F.",
+        "updatedAt": "2020-05-04T23:04:32.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "88f710f2f22a98e04eba9ea9",
+        "__v": 0,
+        "text": "A cat has 230 bones in its body. A human has 206. A cat has no collarbone, so it can fit through any opening the size of its head.",
+        "updatedAt": "2020-12-04T17:20:22.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "afada07118211b0a4d04c978",
+        "__v": 0,
+        "text": "Cats control the outer ear using 32 muscles; humans use 6",
+        "updatedAt": "2020-06-04T20:21:10.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "b1a19fc3d4eb9ef4b03d4f93",
+        "__v": 0,
+        "text": "Cats have 32 muscles that control the outer ear (humans have only 6). A cat can independently rotate its ears 180 degrees.",
+        "updatedAt": "2020-05-17T16:37:54.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "790ef2de3014b43a092309a8",
+        "__v": 0,
+        "text": "A cat’s nose pad is ridged with a unique pattern, just like the fingerprint of a human.",
+        "updatedAt": "2020-06-20T00:20:33.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "b28060b8184e7c1501e2a534",
+        "__v": 0,
+        "text": "If they have ample water, cats can tolerate temperatures up to 133 °F.",
+        "updatedAt": "2020-10-01T02:42:59.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "3d07d603c280acbdb529d6c6",
+        "__v": 0,
+        "text": "Foods that should not be given to cats include onions, garlic, green tomatoes, raw potatoes, chocolate, grapes, and raisins. Though milk is not toxic, it can cause an upset stomach and gas. Tylenol and aspirin are extremely toxic to cats, as are many common houseplants. Feeding cats dog food or canned tuna that’s for human consumption can cause malnutrition.",
+        "updatedAt": "2020-07-30T09:46:26.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "7d3f8be3c8d033adb4c51ce1",
+        "__v": 0,
+        "text": "A 2007 Gallup poll revealed that both men and women were equally likely to own a cat.",
+        "updatedAt": "2020-11-30T03:53:24.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "bc0bf8a7680e7685588c08fe",
+        "__v": 0,
+        "text": "A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.",
+        "updatedAt": "2020-03-05T20:37:37.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "201c96a0239805b94fb36c10",
+        "__v": 0,
+        "text": "In just seven years, a single pair of cats and their offspring could produce a staggering total of 420,000 kittens.",
+        "updatedAt": "2020-10-18T22:52:58.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "0004db22342ffa818a7378eb",
+        "__v": 0,
+        "text": "Relative to its body size, the clouded leopard has the biggest canines of all animals’ canines. Its dagger-like teeth can be as long as 1.8 inches (4.5 cm).",
+        "updatedAt": "2020-11-12T12:44:22.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "77b0c942ad7b29aa8860f898",
+        "__v": 0,
+        "text": "Cats spend nearly 1/3 of their waking hours cleaning themselves.",
+        "updatedAt": "2020-08-20T08:48:38.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "3862e186c2f446e5dee62171",
+        "__v": 0,
+        "text": "Grown cats have 30 teeth. Kittens have about 26 temporary teeth, which they lose when they are about 6 months old.",
+        "updatedAt": "2020-12-19T16:58:59.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "468deedc2fc3df5a9eeb67c1",
+        "__v": 0,
+        "text": "Cat paws act as tempetature regulators, shock absorbers, hunting and grooming tools, sensors, and more",
+        "updatedAt": "2020-09-01T13:46:33.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "a0694145231acb1d6769d715",
+        "__v": 0,
+        "text": "Cats don’t have sweat glands over their bodies like humans do. Instead, they sweat only through their paws.",
+        "updatedAt": "2020-12-30T20:15:56.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "4171964d43ae6faa255a28cb",
+        "__v": 0,
+        "text": "A cat called Dusty has the known record for the most kittens. She had more than 420 kittens in her lifetime.",
+        "updatedAt": "2020-04-22T07:58:40.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "bfef934c885aba75f13b568e",
+        "__v": 0,
+        "text": "The largest cat breed is the Ragdoll. Male Ragdolls weigh between 12 and 20 lbs (5.4-9.0 k). Females weigh between 10 and 15 lbs (4.5-6.8 k).",
+        "updatedAt": "2020-09-25T00:15:12.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "85d6681337d42861d6a989f4",
+        "__v": 0,
+        "text": "Cats are extremely sensitive to vibrations. Cats are said to detect earthquake tremors 10 or 15 minutes before humans can.",
+        "updatedAt": "2020-07-11T19:19:56.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "38d2e463caaf857fbf7cccd5",
+        "__v": 0,
+        "text": "In contrast to dogs, cats have not undergone major changes during their domestication process.",
+        "updatedAt": "2020-09-26T21:04:03.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "2e645681110dfe8f585d7c2d",
+        "__v": 0,
+        "text": "A female cat is called a queen or a molly.",
+        "updatedAt": "2020-11-08T02:33:48.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "e0e643360b6476d60e36f112",
+        "__v": 0,
+        "text": "In the 1930s, two Russian biologists discovered that color change in Siamese kittens depend on their body temperature. Siamese cats carry albino genes that work only when the body temperature is above 98° F. If these kittens are left in a very warm room, their points won’t darken and they will stay a creamy white.",
+        "updatedAt": "2020-05-13T18:19:49.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "6840a2cf854eef67cd67b606",
+        "__v": 0,
+        "text": "There are up to 60 million feral cats in the United States alone.",
+        "updatedAt": "2020-09-16T15:29:12.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "dbdef09b6279a1d1ada52f23",
+        "__v": 0,
+        "text": "The oldest cat to give birth was Kitty who, at the age of 30, gave birth to two kittens. During her life, she gave birth to 218 kittens.",
+        "updatedAt": "2020-05-05T16:00:42.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "22ac90381e799967d33f91ca",
+        "__v": 0,
+        "text": "The most traveled cat is Hamlet, who escaped from his carrier while on a flight. He hid for seven weeks behind a panel on the airplane. By the time he was discovered, he had traveled nearly 373,000 miles (600,000 km).",
+        "updatedAt": "2020-03-20T08:07:00.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "5e3440ae9948dc82272efc11",
+        "__v": 0,
+        "text": "Cats have supersonic hearing",
+        "updatedAt": "2020-04-23T13:31:15.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "932e91881a5f73aedebd367b",
+        "__v": 0,
+        "text": "In Holland’s embassy in Moscow, Russia, the staff noticed that the two Siamese cats kept meowing and clawing at the walls of the building. Their owners finally investigated, thinking they would find mice. Instead, they discovered microphones hidden by Russian spies. The cats heard the microphones when they turned on.",
+        "updatedAt": "2020-08-17T13:19:27.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "959916ee6527b1c330a8c40d",
+        "__v": 0,
+        "text": "The most expensive cat was an Asian Leopard cat (ALC)-Domestic Shorthair (DSH) hybrid named Zeus. Zeus, who is 90% ALC and 10% DSH, has an asking price of £100,000 ($154,000).",
+        "updatedAt": "2020-04-29T08:53:58.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "bcfc59bcdc5dde17a14e3d27",
+        "__v": 0,
+        "text": "The cat who holds the record for the longest non-fatal fall is Andy. He fell from the 16th floor of an apartment building (about 200 ft/.06 km) and survived.",
+        "updatedAt": "2020-06-12T19:53:30.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "0d8a142139d4fda70897559e",
+        "__v": 0,
+        "text": "The richest cat is Blackie who was left £15 million by his owner, Ben Rea.",
+        "updatedAt": "2020-02-05T11:27:03.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "e2bf9883cd0ca424ded8da3c",
+        "__v": 0,
+        "text": "The claws on the cat’s back paws aren’t as sharp as the claws on the front paws because the claws in the back don’t retract and, consequently, become worn.",
+        "updatedAt": "2020-04-10T01:49:57.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "3b7f453491e2b7073e9de845",
+        "__v": 0,
+        "text": "A sexually-active feral tom-cat \\owns\\\" an area of about three square miles and \\\"\"sprays\\\"\" to mark his territory with strong smelling urine.\"\"\"",
+        "updatedAt": "2020-09-16T17:05:32.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "fff15d784a72efbe946cb7cd",
+        "__v": 0,
+        "text": "A cat can sprint at about thirty-one miles per hour.",
+        "updatedAt": "2020-01-20T16:43:37.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "97daf169961d715d2182953d",
+        "__v": 0,
+        "text": "An adult lion's roar can be heard up to five miles (eight kilometers) away.",
+        "updatedAt": "2020-04-07T01:44:20.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "47fe859e12a63a4b390af8d5",
+        "__v": 0,
+        "text": "A cat will tremble or shiver when it is extreme pain.",
+        "updatedAt": "2020-10-20T08:03:23.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "2b294c284eb828a54364dec6",
+        "__v": 0,
+        "text": "A cat's normal pulse is 140-240 beats per minute, with an average of 195.",
+        "updatedAt": "2020-09-05T05:32:08.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "0fff2819cb6ffbda53d6716d",
+        "__v": 0,
+        "text": "Cats lose almost as much fluid in the saliva while grooming themselves as they do through urination.",
+        "updatedAt": "2020-06-26T06:29:26.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "72fe48108c7889cbfa47d9ce",
+        "__v": 0,
+        "text": "Tigers are excellent swimmers and do not avoid water.",
+        "updatedAt": "2020-03-26T07:02:37.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "ce5a29ab79e070032124cdcf",
+        "__v": 0,
+        "text": "The leopard is the most widespread of all big cats.",
+        "updatedAt": "2020-12-20T04:04:48.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "0ef526bca0f14b89d455da4a",
+        "__v": 0,
+        "text": "While many cats enjoy milk, it will give some cats diarrhea.",
+        "updatedAt": "2020-05-16T03:49:31.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "4505a0d47a17980f5d008f6e",
+        "__v": 0,
+        "text": "Female cats are polyestrous",
+        "updatedAt": "2020-04-27T06:56:43.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "d91a38b751d9f2cac3de8153",
+        "__v": 0,
+        "text": "A cat will tremble or shiver when it is in extreme pain.",
+        "updatedAt": "2020-11-23T23:58:34.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "a6fae66ab327dc87314b942b",
+        "__v": 0,
+        "text": "The cat appears to be the only domestic companion animal not mentioned in the Bible.",
+        "updatedAt": "2020-04-03T02:58:16.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "531fb330c407625759e8fb1c",
+        "__v": 0,
+        "text": "Some common houseplants poisonous to cats include: English Ivy, iris, mistletoe, philodendron, and yew.",
+        "updatedAt": "2020-06-18T17:34:15.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "319341682e79e9ec7b53e965",
+        "__v": 0,
+        "text": "Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.",
+        "updatedAt": "2020-04-26T17:00:30.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "e5e71f09ea3299f2164c1e28",
+        "__v": 0,
+        "text": "Cats step with both left legs, then both right legs when they walk or run.",
+        "updatedAt": "2020-11-21T16:26:50.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "c12a501b51a80ea9b97e66f1",
+        "__v": 0,
+        "text": "A domestic cat can run at speeds of 30 mph.",
+        "updatedAt": "2020-09-18T13:56:57.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "6dfc0862ba784e688ff4b516",
+        "__v": 0,
+        "text": "The domestic cat is the only species able to hold its tail vertically while walking. You can also learn about your cat's present state of mind by observing the posture of his tail.",
+        "updatedAt": "2020-07-19T02:32:45.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "c635255cfc4b7152cf598a42",
+        "__v": 0,
+        "text": "Cats lap liquid from the underside of their tongue, not from the top.",
+        "updatedAt": "2020-07-14T14:56:10.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "8a685c25928ac658cabe9fc7",
+        "__v": 0,
+        "text": "Cats take between 20-40 breaths per minute.",
+        "updatedAt": "2020-01-03T08:53:19.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "50ffeff0a05b5cfaa368b7f2",
+        "__v": 0,
+        "text": "The Maine Coone is the only native American long haired breed.",
+        "updatedAt": "2020-11-11T13:12:03.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "745e8787cfbae013269c2d18",
+        "__v": 0,
+        "text": "Statistics indicate that animal lovers in recent years have shown a preference for cats over dogs!",
+        "updatedAt": "2020-11-08T02:32:56.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "b54935523d9d5fe61208c901",
+        "__v": 0,
+        "text": "It has been scientifically proven that owning cats is good for our health and can decrease the occurrence of high blood pressure and other illnesses.",
+        "updatedAt": "2020-05-10T12:24:49.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "b0135848a2fd3a6241ae6d63",
+        "__v": 0,
+        "text": "Cats have been domesticated for half as long as dogs have been.",
+        "updatedAt": "2020-07-10T02:09:11.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "f7b7651a68dc304ecee5b6f8",
+        "__v": 0,
+        "text": "The largest breed of cat is the Ragdoll with males weighing in at 1 5 to 20 lbs. The heaviest domestic cat on record was a neutered male tabby named Himmy from Queensland, Australia who weighed 46 lbs. 1 5 oz.",
+        "updatedAt": "2020-04-07T23:43:51.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "dd0957a0cdcc72bf419c6102",
+        "__v": 0,
+        "text": "The first formal cat show was held in England in 1871; in America, in 1895.",
+        "updatedAt": "2020-03-24T03:22:21.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "7a679bab177562082e071833",
+        "__v": 0,
+        "text": "The average litter of kittens is between 2 - 6 kittens.",
+        "updatedAt": "2020-04-12T07:25:56.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "d13bf7c4116e7852dbaf6b7a",
+        "__v": 0,
+        "text": "In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters).",
+        "updatedAt": "2020-10-18T05:13:34.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "e66061074d50a0e3c9942a4c",
+        "__v": 0,
+        "text": "Cats are now Britain's favourite pet: there are 7.7 million cats as opposed to 6.6 million dogs.",
+        "updatedAt": "2020-08-30T14:53:30.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "188c858981b61496639e0db1",
+        "__v": 0,
+        "text": "A cat sees about 6 times better than a human at night, and needs 1/6 the amount of of light that a human does - it has a layer of extra reflecting cells which absorb light.",
+        "updatedAt": "2020-01-24T13:36:47.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "7d8ff565b174691dc5544e42",
+        "__v": 0,
+        "text": "The cat's tail is used to maintain balance.",
+        "updatedAt": "2020-08-06T13:24:18.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "33e254d34588ea094014be20",
+        "__v": 0,
+        "text": "A cat's brain is more similar to a man's brain than that of a dog.",
+        "updatedAt": "2020-05-31T02:50:04.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "bd616b22524d2acf32168c30",
+        "__v": 0,
+        "text": "According to a Gallup poll, most American pet owners obtain their cats by adopting strays.",
+        "updatedAt": "2020-04-28T22:58:22.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "19a86edcef9087813c5f79b3",
+        "__v": 0,
+        "text": "A cat's normal temperature varies around 101 degrees Fahrenheit.",
+        "updatedAt": "2020-01-09T06:29:06.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "9f9fc79c69919387717dc4f6",
+        "__v": 0,
+        "text": "Cats respond better to women than to men, probably due to the fact that women's voices have a higher pitch.",
+        "updatedAt": "2020-11-01T21:01:08.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "99be9d6f7e19d8a032cc5b71",
+        "__v": 0,
+        "text": "It may take as long as 2 weeks for a kitten to be able to hear well.  Their eyes usually open between 7 and 10 days, but sometimes it happens in as little as 2 days.",
+        "updatedAt": "2020-09-25T21:36:51.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "5c640806b5049fd19fd6039c",
+        "__v": 0,
+        "text": "A form of AIDS exists in cats.",
+        "updatedAt": "2020-03-22T22:45:35.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "c73ccff224a5e0ab5bbe0339",
+        "__v": 0,
+        "text": "The cheetah is the world's fastest land mammal. It can run at speeds of up to 70 miles an hour (113 kilometers an hour).",
+        "updatedAt": "2020-04-02T15:50:35.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "235eec7e5e93fbbf332e4c19",
+        "__v": 0,
+        "text": "Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq.",
+        "updatedAt": "2020-07-25T23:30:32.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "9d5e1b26378fa77da7ede48a",
+        "__v": 0,
+        "text": "When a cats rubs up against you, the cat is marking you with it's scent claiming ownership.",
+        "updatedAt": "2020-11-27T20:40:03.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "97e21017462ed9d5c9524d51",
+        "__v": 0,
+        "text": "The average lifespan of an outdoor-only cat is about 3 to 5 years while an indoor-only cat can live 16 years or much longer.",
+        "updatedAt": "2020-08-20T00:02:36.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "7966ae3280c2a954adf26d93",
+        "__v": 0,
+        "text": "The Maine Coon cat is America's only natural breed of domestic feline. It is 4 to 5 times larger than the Singapura, the smallest breed of cat.",
+        "updatedAt": "2020-11-29T20:11:55.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "94fbf0a9841941e39acea4cf",
+        "__v": 0,
+        "text": "In 1987 cats overtook dogs as the number one pet in America.",
+        "updatedAt": "2020-06-01T08:52:16.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "ea1ac0c0f23408c7a205f9ee",
+        "__v": 0,
+        "text": "A cat can jump 5 times as high as it is tall.",
+        "updatedAt": "2020-01-04T02:48:11.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "b4735f890b04bd2dcc4fba6a",
+        "__v": 0,
+        "text": "Since cats are so good at hiding illness, even a single instance of a symptom should be taken very seriously.",
+        "updatedAt": "2020-11-28T04:33:41.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "67f7a40383125843872af2b2",
+        "__v": 0,
+        "text": "Retractable claws are a physical phenomenon that sets cats apart from the rest of the animal kingdom. I n the cat family, only cheetahs cannot retract their claws.",
+        "updatedAt": "2020-11-12T01:36:33.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "f0ea8c62807900ebf402036b",
+        "__v": 0,
+        "text": "A steady diet of dog food may cause blindness in your cat - it lacks taurine.",
+        "updatedAt": "2020-04-01T21:06:03.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "766176f6684e103c9ccbf112",
+        "__v": 0,
+        "text": "When a domestic cat goes after mice, about 1 pounce in 3 results in a catch.",
+        "updatedAt": "2020-04-10T07:53:40.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "7f75d988afcfda023d844922",
+        "__v": 0,
+        "text": "Cats have 30 teeth (12 incisors, 10 premolars, 4 canines, and 4 molars), while dogs have 42. Kittens have baby teeth, which are replaced by permanent teeth around the age of 7 months.",
+        "updatedAt": "2020-09-29T06:27:08.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "a030b74d08b2553fa5e389a9",
+        "__v": 0,
+        "text": "Many cats love having their forehead gently stroked.",
+        "updatedAt": "2020-03-28T21:45:40.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "30d7f079f15e9e6b93ecdbbf",
+        "__v": 0,
+        "text": "A cat has two vocal chords, and can make over 100 sounds.",
+        "updatedAt": "2020-11-11T12:01:29.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "23adf8552a1929be29c4e28b",
+        "__v": 0,
+        "text": "Mountain lions are strong jumpers, thanks to muscular hind legs that are longer than their front legs.",
+        "updatedAt": "2020-02-20T02:26:34.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "a3ae720845bd3decee742940",
+        "__v": 0,
+        "text": "Cats bury their feces to cover their trails from predators.",
+        "updatedAt": "2020-11-24T01:06:30.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "9e40e3187f124baa87e84a72",
+        "__v": 0,
+        "text": "In an average year, cat owners in the United States spend over $2 billion on cat food.",
+        "updatedAt": "2020-08-11T17:56:03.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "d4140ce24a12688997353189",
+        "__v": 0,
+        "text": "The Ancient Egyptian word for cat was mau, which means \"to see\".",
+        "updatedAt": "2020-04-11T12:58:07.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "461191508e9751210d9c1e8b",
+        "__v": 0,
+        "text": "The name \"jaguar\" comes from a Native American word meaning \"he who kills with one leap\".",
+        "updatedAt": "2020-01-17T16:27:43.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "4de3b2bef8198ca64a79ad3a",
+        "__v": 0,
+        "text": "Cats, especially older cats, do get cancer. Many times this disease can be treated successfully.",
+        "updatedAt": "2020-10-31T19:51:13.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "8db1b348df76843ae6e508f2",
+        "__v": 0,
+        "text": "There are approximately 100 breeds of cat.",
+        "updatedAt": "2020-09-19T00:52:53.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "b4ce9267dcbe84bb774a50e4",
+        "__v": 0,
+        "text": "Like birds, cats have a homing ability that uses its biological clock, the angle of the sun, and the Earth's magnetic field. A cat taken far from its home can return to it. But if a cat's owners move far from its home, the cat can't find them.",
+        "updatedAt": "2020-10-09T06:23:33.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "03ddf44f44e80afd05b951af",
+        "__v": 0,
+        "text": "Cat's urine glows under a black light.",
+        "updatedAt": "2020-04-08T08:15:16.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "e65e570b1b3515583cf32e70",
+        "__v": 0,
+        "text": "The chlorine in fresh tap water irritates sensitive parts of the cat's nose. Let tap water sit for 24 hours before giving it to a cat.",
+        "updatedAt": "2020-07-18T23:17:08.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "52a9bfbbba72b56907f24261",
+        "__v": 0,
+        "text": "If your cat snores, or rolls over on his back to expose his belly, it means he trusts you.",
+        "updatedAt": "2020-03-29T03:09:03.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "0dccf272d8cb6b6ba8e43866",
+        "__v": 0,
+        "text": "Cats lived with soldiers in trenches, where they killed mice during World War I.",
+        "updatedAt": "2020-05-25T13:42:22.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "601445ba688b0d7c1079009c",
+        "__v": 0,
+        "text": "About 37% of American homes today have at least 1 cat.",
+        "updatedAt": "2020-03-25T20:28:56.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "8729091220bda9d3450b6ce5",
+        "__v": 0,
+        "text": "The female cat reaches sexual maturity within 6 to 10 months; most veterinarians suggest spaying the female at 5 months, before her first heat period. The male cat usually reaches sexual maturity between 9 and 12 months.",
+        "updatedAt": "2020-06-20T07:13:12.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "a16de22a42f621759dc53994",
+        "__v": 0,
+        "text": "Kittens remain with their mother till the age of 9 weeks.",
+        "updatedAt": "2020-08-29T12:06:00.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "d74659d2b04c17c3fce6abc4",
+        "__v": 0,
+        "text": "Cats can predict earthquakes. We humans are not 100% sure how they do it. There are several different theories.",
+        "updatedAt": "2020-04-30T16:32:29.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "3f63ccdc870ba859ae9de4cc",
+        "__v": 0,
+        "text": "The way you treat kittens in the early stages of it's life will render it's personality traits later in life.",
+        "updatedAt": "2020-01-26T13:14:50.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "3fd361207e8b1b89d606f7f3",
+        "__v": 0,
+        "text": "Cats' eyes shine in the dark because of the tapetum, a reflective layer in the eye, which acts like a mirror.",
+        "updatedAt": "2020-06-28T03:22:34.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "647e966ed1936c76aa517068",
+        "__v": 0,
+        "text": "A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.",
+        "updatedAt": "2020-12-25T16:25:53.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "2cdba4a555301d8e30abd5e9",
+        "__v": 0,
+        "text": "A tomcat (male cat) can begin mating when he is between 7 and 10 months old.",
+        "updatedAt": "2020-01-27T12:39:47.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "a66c4ab9f515637e92c0b9ad",
+        "__v": 0,
+        "text": "Today there are about 100 distinct breeds of the domestic cat.",
+        "updatedAt": "2020-11-26T12:52:19.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "fc6d6a6179ef9ce9c2a4505d",
+        "__v": 0,
+        "text": "Julius Ceasar, Henri II, Charles XI, and Napoleon were all afraid of cats.",
+        "updatedAt": "2020-05-31T10:39:34.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "4fc931772ff346c658ddd4cc",
+        "__v": 0,
+        "text": "A kitten will typically weigh about 3 ounces at birth.  The typical male housecat will weigh between  7 and 9 pounds, slightly less for female housecats.",
+        "updatedAt": "2020-05-23T22:14:45.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "9e1a2a089573143739c8da2b",
+        "__v": 0,
+        "text": "Cats have the largest eyes of any mammal.",
+        "updatedAt": "2020-10-29T23:13:03.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "41a3d5674d86c3544087d572",
+        "__v": 0,
+        "text": "Cats can judge within 3 inches the precise location of a sound being made 1 yard away.",
+        "updatedAt": "2020-02-28T13:19:05.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "325f0445f9da0c9a640e674d",
+        "__v": 0,
+        "text": "Lions are the only cats that live in groups, called prides. Every female within the pride is usually related.",
+        "updatedAt": "2020-05-12T05:48:11.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "3323f8066ecbe2d91e186d2e",
+        "__v": 0,
+        "text": "Cats should not be fed tuna exclusively, as it lacks taurine, an essential nutrient required for good feline health.  Make sure you have the proper Pet supplies to keep your cat happy and healthy.",
+        "updatedAt": "2020-08-10T15:47:15.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "110ec3cfa478c3548a50be8b",
+        "__v": 0,
+        "text": "Most cats adore sardines.",
+        "updatedAt": "2020-02-13T17:09:50.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "47cbbd8f9bd749069377095e",
+        "__v": 0,
+        "text": "Cats with long, lean bodies are more likely to be outgoing, and more protective and vocal than those with a stocky build.",
+        "updatedAt": "2020-02-27T05:01:49.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "a5b9a23f7288e5903a5496ab",
+        "__v": 0,
+        "text": "The ancestor of all domestic cats is the African Wild Cat which still exists today.",
+        "updatedAt": "2020-05-02T06:30:07.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "216eeb834297ef7c60080a6f",
+        "__v": 0,
+        "text": "Cats have 32 muscles that control the outer ear (compared to human's 6 muscles each). A cat can rotate its ears independently 180 degrees, and can turn in the direction of sound 10 times faster than those of the best watchdog.",
+        "updatedAt": "2020-07-12T10:23:28.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "55b927e8507ca0f226aabdd1",
+        "__v": 0,
+        "text": "The cat's front paw has 5 toes, but the back paws have 4. Some cats are born with as many as 7 front toes and extra back toes (polydactl).",
+        "updatedAt": "2020-07-08T04:56:49.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "13ccbf6713dd784ff9e68e99",
+        "__v": 0,
+        "text": "Long, muscular hind legs enable snow leopards to leap seven times their own body length in a single bound.",
+        "updatedAt": "2020-08-09T07:08:53.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "4481b2c7707b152d82294c1e",
+        "__v": 0,
+        "text": "Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.",
+        "updatedAt": "2020-09-06T23:22:44.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "100dcbe7ea2d8a41ab373fc6",
+        "__v": 0,
+        "text": "A cat has more bones than a human; humans have 206, but the cat has 230 (some cites list 245 bones, and state that bones may fuse together as the cat ages).",
+        "updatedAt": "2020-08-10T06:47:23.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "94ec57339b40fd1a2aaf0cc9",
+        "__v": 0,
+        "text": "Many cats cannot properly digest cow's milk. Milk and milk products give them diarrhea.",
+        "updatedAt": "2020-11-28T17:37:59.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "0217a2e67fe33b5162a2b111",
+        "__v": 0,
+        "text": "A cat's normal pulse is 140-240 beats per minute, with an average of 195.",
+        "updatedAt": "2020-11-04T11:39:19.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "444a78b70618c858d3e5678c",
+        "__v": 0,
+        "text": "Kittens who are taken along on short, trouble-free car trips to town tend to make good passengers when they get older. They get used to the sounds and motions of traveling and make less connection between the car and the visits to the vet.",
+        "updatedAt": "2020-02-04T05:22:38.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "f6c8b828f76ae968ee17a591",
+        "__v": 0,
+        "text": "All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads.",
+        "updatedAt": "2020-07-21T14:21:10.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "0d3e414ac545633923ee058c",
+        "__v": 0,
+        "text": "Neutering a male cat will, in almost all cases, stop him from spraying (territorial marking), fighting with other males (at least over females), as well as lengthen his life and improve its quality.",
+        "updatedAt": "2020-06-16T12:22:40.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "28c079091753dbf73ef6abbc",
+        "__v": 0,
+        "text": "Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically.",
+        "updatedAt": "2020-06-23T22:19:28.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "45fa7d7113647fff5fc61287",
+        "__v": 0,
+        "text": "Not every cat gets \\high\\\" from catnip. Whether or not a cat responds to it depends upon a recessive gene: no gene\"",
+        "updatedAt": "2020-12-10T14:54:21.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "97d9ff6ba2a27f0b20208766",
+        "__v": 0,
+        "text": "A cat can spend five or more hours a day grooming himself.",
+        "updatedAt": "2020-12-04T23:54:46.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "0693b103516c9026f1ae3b67",
+        "__v": 0,
+        "text": "British cat owners spend roughly 550 million pounds yearly on cat food.",
+        "updatedAt": "2020-03-10T11:51:30.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "f5aa389c23db7c2f3f78d66b",
+        "__v": 0,
+        "text": "Purring does not always indicate that a cat is happy. Cats will also purr loudly when they are distressed or in pain.",
+        "updatedAt": "2020-01-26T18:50:52.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "49c6c157db0322ce48f9581f",
+        "__v": 0,
+        "text": "It is estimated that cats can make over 60 different sounds.",
+        "updatedAt": "2020-02-21T08:05:42.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "b105be3639bce7f9c1782a40",
+        "__v": 0,
+        "text": "Heat occurs several times a year and can last anywhere from 3 to 15 days.",
+        "updatedAt": "2020-03-02T16:19:10.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "2774c9be0fc448dd1917cc72",
+        "__v": 0,
+        "text": "Cats' hearing is much more sensitive than humans and dogs.",
+        "updatedAt": "2020-12-12T01:32:49.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "c19c539b8a5be308713abd17",
+        "__v": 0,
+        "text": "Cats must have fat in their diet because they can't produce it on their own.",
+        "updatedAt": "2020-11-22T15:41:07.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "b929a536e393a353db6a63c1",
+        "__v": 0,
+        "text": "Blue-eyed, pure white cats are frequently deaf.",
+        "updatedAt": "2020-02-22T23:31:25.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "b83c91237a5bdb2338c8c806",
+        "__v": 0,
+        "text": "A female cat will be pregnant for approximately 9 weeks or between 62 and 65 days from conception to delivery.",
+        "updatedAt": "2020-03-26T16:19:56.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "e7ba26119d025e81c846f552",
+        "__v": 0,
+        "text": "In ancient Egypt, when a family cat died, all family members would shave their eyebrows as a sign of mourning.",
+        "updatedAt": "2020-11-03T11:55:56.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "432f683dc936f8c0710388cd",
+        "__v": 0,
+        "text": "The Amur leopard is one of the most endangered animals in the world.",
+        "updatedAt": "2020-01-05T10:45:33.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "8e013880d81a41c433695b75",
+        "__v": 0,
+        "text": "Cats and kittens should be acquired in pairs whenever possible as cat families interact best in pairs.",
+        "updatedAt": "2020-03-29T06:08:31.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "31ab2aa2f0fdc8bf0421864c",
+        "__v": 0,
+        "text": "On average, a cat will sleep for 16 hours a day.",
+        "updatedAt": "2020-09-10T09:04:38.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "ad7e3c2b5bef9feb22a53885",
+        "__v": 0,
+        "text": "Cats sleep 16 to 18 hours per day. When cats are asleep, they are still alert to incoming stimuli. If you poke the tail of a sleeping cat, it will respond accordingly.",
+        "updatedAt": "2020-04-22T22:52:06.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "d03ac187cd205387368afd8f",
+        "__v": 0,
+        "text": "A tiger's stripes are like fingerprints",
+        "updatedAt": "2020-02-16T12:50:30.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "1bcbc82fa4143b011bb6286e",
+        "__v": 0,
+        "text": "The life expectancy of cats has nearly doubled over the last fifty years.",
+        "updatedAt": "2020-11-30T00:29:13.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "b3a107073b628f484749da9f",
+        "__v": 0,
+        "text": "A cat's field of vision is about 200 degrees.",
+        "updatedAt": "2020-02-05T09:58:35.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "0254d96c6210970dad966443",
+        "__v": 0,
+        "text": "Ancient Egyptian family members shaved their eyebrows in mourning when the family cat died.",
+        "updatedAt": "2020-11-08T11:31:02.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "10bee8b98e0dfd7b2cfb971e",
+        "__v": 0,
+        "text": "A healthy cat has a temperature between 38 and 39 degrees Celcius.",
+        "updatedAt": "2020-12-04T10:32:19.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "44a82fd404d326d7f8284728",
+        "__v": 0,
+        "text": "Unlike other cats, lions have a tuft of hair at the end of their tails.",
+        "updatedAt": "2020-12-23T03:36:53.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "9753afa6a96156764a824338",
+        "__v": 0,
+        "text": "Both humans and cats have identical regions in the brain responsible for emotion.",
+        "updatedAt": "2020-03-20T03:12:02.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "be7d7b618c9535c7994bb3b3",
+        "__v": 0,
+        "text": "Jaguars are the only big cats that don't roar.",
+        "updatedAt": "2020-12-10T22:01:32.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "e3d04ba83f9bc6cac58b6b40",
+        "__v": 0,
+        "text": "Of all the species of cats, the domestic cat is the only species able to hold its tail vertically while walking. All species of wild cats hold their tail horizontally or tucked between their legs while walking.",
+        "updatedAt": "2020-10-12T14:20:13.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "e99744d90630dd205304e284",
+        "__v": 0,
+        "text": "Edward Lear, author of \\The Owl and the Pussycat\\\"\", is said to have had his new house in San Remo built to exactly the same specification as his previous residence, so that his much-loved tabby, Foss, would immediately feel at home.\"\"\"",
+        "updatedAt": "2020-04-30T01:28:32.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "efeb2ab2ff3c2765f622fdd1",
+        "__v": 0,
+        "text": "Cats can be right-pawed or left-pawed.",
+        "updatedAt": "2020-11-30T14:22:27.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "af9bd599a1f0565a56a7d968",
+        "__v": 0,
+        "text": "Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways.",
+        "updatedAt": "2020-06-11T14:26:29.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "5c13016e99b3368c0046bfdf",
+        "__v": 0,
+        "text": "Cats walk on their toes.",
+        "updatedAt": "2020-05-27T22:22:33.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "88edc665c70a69e46973cd3e",
+        "__v": 0,
+        "text": "The first official cat show in the UK was organised at Crystal Palace in 1871.",
+        "updatedAt": "2020-09-12T08:34:16.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "9537ca8b9b9a776f3230eec0",
+        "__v": 0,
+        "text": "The first cat show was in 1871 at the Crystal Palace in London.",
+        "updatedAt": "2020-04-18T09:11:27.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "2fd06a1b5d17ecf9b852224c",
+        "__v": 0,
+        "text": "In just 7 years, one un-spayed female cat and one un-neutered male cat and their offspring can result in 420,000 kittens.",
+        "updatedAt": "2020-10-01T14:54:34.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "686d8ca5df1a562a41e47dcc",
+        "__v": 0,
+        "text": "When your cats rubs up against you, she is actually marking you as 'hers' with her scent. If your cat pushes his face against your head, it is a sign of acceptance and affection.",
+        "updatedAt": "2020-03-18T15:45:15.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "7f86222308e132e8566083b4",
+        "__v": 0,
+        "text": "Tests done by the Behavioral Department of the Musuem of Natural History conclude that while a dog's memory lasts about 5 minutes, a cat's recall can last as long as 16 hours.",
+        "updatedAt": "2020-12-13T10:07:01.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "feb24f96b44a2d24ca05f6de",
+        "__v": 0,
+        "text": "The average lifespan of an outdoor-only (feral and non-feral) is about 3 years; an indoor-only cat can live 16 years and longer. Some cats have been documented to have a longevity of 34 years.",
+        "updatedAt": "2020-06-03T20:39:28.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "eb8f0cb3f2ebc21949b1da67",
+        "__v": 0,
+        "text": "A happy cat holds her tail high and steady.",
+        "updatedAt": "2020-03-15T00:12:20.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "a8aa694126b7edcb640f30af",
+        "__v": 0,
+        "text": "The cat's clavicle, or collarbone, does not connect with other bones but is buried in the muscles of the shoulder region. This lack of a functioning collarbone allows them to fit through any opening the size of their head.",
+        "updatedAt": "2020-01-21T20:05:29.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "698aa8eccb77721af8182552",
+        "__v": 0,
+        "text": "Cats come back to full alertness from the sleep state faster than any other creature.",
+        "updatedAt": "2020-07-25T03:44:15.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "b8cfa41de06f6c5f453050b8",
+        "__v": 0,
+        "text": "When a cat drinks, its tongue - which has tiny barbs on it - scoops the liquid up backwards.",
+        "updatedAt": "2020-04-02T10:51:32.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "d54fb7ff17d68f6a8e21d73c",
+        "__v": 0,
+        "text": "Cats see six times better in the dark and at night than humans.",
+        "updatedAt": "2020-03-25T03:19:16.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "973ae07a36c86a8147d765a4",
+        "__v": 0,
+        "text": "Purring does not always indicate that a cat is happy and healthy - some cats will purr loudly when they are terrified or in pain.",
+        "updatedAt": "2020-06-05T04:23:27.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "24780e5b2b48bde560e293d5",
+        "__v": 0,
+        "text": "People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better.",
+        "updatedAt": "2020-03-15T21:05:38.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "3616047dbd7a661a3be12aed",
+        "__v": 0,
+        "text": "If a cat is frightened, the hair stands up fairly evenly all over the body; when the cat is threatened or is ready to attack, the hair stands up only in a narrow band along the spine and tail.",
+        "updatedAt": "2020-12-12T12:52:14.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "9b039e8be0c90b7b52b09bf1",
+        "__v": 0,
+        "text": "Blue-eyed, white cats are often prone to deafness.",
+        "updatedAt": "2020-07-31T11:21:26.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "5589a42d18cabed8b58f8b95",
+        "__v": 0,
+        "text": "In relation to their body size, cats have the largest eyes of any mammal.",
+        "updatedAt": "2020-10-14T07:37:14.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "0ccd9a7b1f33303b57d92484",
+        "__v": 0,
+        "text": "An adult lion's roar can be heard up to five miles (eight kilometers) away.",
+        "updatedAt": "2020-02-13T12:26:47.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "1baefa6e1b5530e3cc602780",
+        "__v": 0,
+        "text": "Female felines are \\superfecund",
+        "updatedAt": "2020-06-02T07:13:27.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "7a6caabe4fdb15ed071e3572",
+        "__v": 0,
+        "text": "At 4 weeks, it is important to play with kittens so that they do not develope a fear of people.",
+        "updatedAt": "2020-01-11T19:47:39.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "a3e1b2cba5223b6630bc2138",
+        "__v": 0,
+        "text": "A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.",
+        "updatedAt": "2020-02-17T06:54:36.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "ef06de325265b4fceb6ddc83",
+        "__v": 0,
+        "text": "Abraham Lincoln loved cats. He had four of them while he lived in the White House.",
+        "updatedAt": "2020-08-01T23:32:33.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "58159b70b0baf88d6351321b",
+        "__v": 0,
+        "text": "In 1987 cats overtook dogs as the number one pet in America.",
+        "updatedAt": "2020-07-23T18:56:17.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "7b6c0713da0420ab357dfddd",
+        "__v": 0,
+        "text": "A cat uses its whiskers for measuring distances.  The whiskers of a cat are capable of registering very small changes in air pressure.",
+        "updatedAt": "2020-04-16T01:11:33.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "6951bf5ceefdcc55500507dd",
+        "__v": 0,
+        "text": "A cat has more bones than a human; humans have 206, and the cat - 230.",
+        "updatedAt": "2020-11-18T15:33:35.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "4e48d11cb6092c9c48167b2c",
+        "__v": 0,
+        "text": "Cats dislike citrus scent.",
+        "updatedAt": "2020-07-08T13:08:34.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "1ac18fe1544ec6be6574f29a",
+        "__v": 0,
+        "text": "It has been scientifically proven that stroking a cat can lower one's blood pressure.",
+        "updatedAt": "2020-04-28T22:48:16.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "e3863bb6d7eeac4b69b62cc0",
+        "__v": 0,
+        "text": "Cats respond most readily to names that end in an \\ee\\\" sound.\"\"\"",
+        "updatedAt": "2020-09-15T16:47:48.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "b0bbeaa8d5dabef0dadf57ab",
+        "__v": 0,
+        "text": "Neutering a cat extends its life span by two or three years.",
+        "updatedAt": "2020-05-15T11:31:11.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "b3e948b6987794dd49ea8a5d",
+        "__v": 0,
+        "text": "Cat families usually play best in even numbers. Cats and kittens should be acquired in pairs whenever possible.",
+        "updatedAt": "2020-12-05T17:44:57.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "8383c10e19b6654ebf7602d3",
+        "__v": 0,
+        "text": "The Pilgrims were the first to introduce cats to North America.",
+        "updatedAt": "2020-12-29T02:57:34.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "4d63edf3619b0c95b7a57f75",
+        "__v": 0,
+        "text": "After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.",
+        "updatedAt": "2020-10-22T11:25:32.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "6457401de2a8ec5b2c2437c9",
+        "__v": 0,
+        "text": "Among many other diseases, cats can suffer from anorexia, senility, feline AIDS and acne.",
+        "updatedAt": "2020-12-06T19:57:22.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "d1fc67c48269e4abacf02213",
+        "__v": 0,
+        "text": "Cats that live together sometimes rub each others heads to show that they have no intention of fighting. Young cats do this more often, especially when they are excited.",
+        "updatedAt": "2020-03-15T03:37:00.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "b5b1c5f4aeced74bf8094c7f",
+        "__v": 0,
+        "text": "Miacis, the primitive ancestor of cats, was a small, tree-living creature of the late Eocene period, some 45 to 50 million years ago.",
+        "updatedAt": "2020-01-25T03:01:32.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "d039d72e8d6ca2ebd0ce65d4",
+        "__v": 0,
+        "text": "A cat's hearing is much more sensitive than humans and dogs.",
+        "updatedAt": "2020-07-28T19:40:51.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "bdb62fe7a47f925c74b8bcc6",
+        "__v": 0,
+        "text": "A cat will tremble or shiver when it is extreme pain.",
+        "updatedAt": "2020-08-10T12:43:44.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "74f1983e83ddfd9ee9535569",
+        "__v": 0,
+        "text": "In 1987, cats overtook dogs as the number one pet in America (about 50 million cats resided in 24 million homes in 1986). About 37% of American homes today have at least one cat.",
+        "updatedAt": "2020-08-10T11:49:07.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "794880e00a6e0f71dfeaa347",
+        "__v": 0,
+        "text": "Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech , and seems to enjoy human companionship.",
+        "updatedAt": "2020-05-04T15:42:24.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "7e9d493beb6bec89089e9543",
+        "__v": 0,
+        "text": "The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat.",
+        "updatedAt": "2020-07-26T12:02:03.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "6d58f1f5ffdafa48308d7e78",
+        "__v": 0,
+        "text": "A cat has approximately 60 to 80 million olfactory cells (a human has between 5 and 20 million).",
+        "updatedAt": "2020-10-11T14:49:53.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "bf7e2932d4f3ac823659c6d3",
+        "__v": 0,
+        "text": "Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. The younger the cat is, the easier it will be for them to learn.",
+        "updatedAt": "2020-04-11T23:24:04.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "2294d895094eb2d89acd35c5",
+        "__v": 0,
+        "text": "A cats field of vision is about 185 degrees.",
+        "updatedAt": "2020-08-02T01:13:31.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "aedbb634a5b66f6f76704000",
+        "__v": 0,
+        "text": "You check your cats pulse on the inside of the back thigh, where the leg joins to the body. Normal for cats: 110-170 beats per minute.",
+        "updatedAt": "2020-04-21T21:34:21.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "eb25c212330cf4878a2af72e",
+        "__v": 0,
+        "text": "The strongest climber among the big cats, a leopard can carry prey twice its weight up a tree.",
+        "updatedAt": "2020-04-01T21:37:13.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "5ebf27000f8ed1fd70efa8b8",
+        "__v": 0,
+        "text": "The first true cats came into existence about 12 million years ago and were the Proailurus.",
+        "updatedAt": "2020-10-02T01:22:49.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "a1945c14020f7e20274d955c",
+        "__v": 0,
+        "text": "There is a species of cat smaller than the average housecat. It is native to Africa and it is the Black-footed cat (Felis nigripes). Its top weight is 5.5 pounds.",
+        "updatedAt": "2020-05-09T06:11:41.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "85901d7304809d5aa57e3a7b",
+        "__v": 0,
+        "text": "Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC.",
+        "updatedAt": "2020-08-02T10:09:54.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "8f37d8f77161daa86f1941cd",
+        "__v": 0,
+        "text": "Cat families usually play best in even numbers. Cats and kittens should be aquired in pairs whenever possible.",
+        "updatedAt": "2020-09-03T04:53:52.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "b8e79ef20ad573803c47775a",
+        "__v": 0,
+        "text": "Cheetahs do not roar, as the other big cats do. Instead, they purr.",
+        "updatedAt": "2020-06-25T06:33:54.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "d7ca893c4882b21200331b71",
+        "__v": 0,
+        "text": "Ailurophile is the word cat lovers are officially called.",
+        "updatedAt": "2020-05-10T04:09:00.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "b6ca1f02452fd47334e7f18b",
+        "__v": 0,
+        "text": "The cat has 500 skeletal muscles (humans have 650).",
+        "updatedAt": "2020-01-16T03:31:01.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 2
+    },
+    {
+        "_id": "b837fd560df801b3632d3937",
+        "__v": 0,
+        "text": "Cats are subject to gum disease and to dental caries. They should have their teeth cleaned by the vet or the cat dentist once a year.",
+        "updatedAt": "2020-05-25T00:30:35.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "53b8be9698f79bc5d87a5c41",
+        "__v": 0,
+        "text": "Florence Nightingale owned more than 60 cats in her lifetime.",
+        "updatedAt": "2020-09-18T07:05:55.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "8dda2d321fef9e7c4e159f14",
+        "__v": 0,
+        "text": "Cat bites are more likely to become infected than dog bites.",
+        "updatedAt": "2020-08-23T14:25:39.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "7e2284c2b803a2f47aa0711c",
+        "__v": 0,
+        "text": "Tylenol and chocolate are both poisionous to cats.",
+        "updatedAt": "2020-11-21T22:07:12.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "5e5a81f63ce7bbf74b0a477c",
+        "__v": 0,
+        "text": "A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.",
+        "updatedAt": "2020-06-04T22:32:56.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "9fbd91645b5146c5b5393207",
+        "__v": 0,
+        "text": "In ancient Egypt, mummies were made of cats, and embalmed mice were placed with them in their tombs. In one ancient city, over 300,000 cat mummies were found.",
+        "updatedAt": "2020-11-28T14:03:28.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "f0a9d20f41f34a435540c2d6",
+        "__v": 0,
+        "text": "Fossil records from two million years ago show evidence of jaguars.",
+        "updatedAt": "2020-12-02T02:25:39.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "11cc531406bd674d25e13a7a",
+        "__v": 0,
+        "text": "In multi-cat households, cats of the opposite sex usually get along better.",
+        "updatedAt": "2020-08-03T14:06:22.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "ff3a0c898665b87afb9743cc",
+        "__v": 0,
+        "text": "Normal body temperature for a cat is 102 degrees F.",
+        "updatedAt": "2020-06-16T03:58:39.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "797f638959299fb2e54140bb",
+        "__v": 0,
+        "text": "A cat cannot see directly under its nose.",
+        "updatedAt": "2020-06-19T14:43:57.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "5f0fd97827b01d3155db3d04",
+        "__v": 0,
+        "text": "Baking chocolate is the most dangerous chocolate to your cat.",
+        "updatedAt": "2020-12-08T10:51:41.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "fed4db31af8272b34545a4ec",
+        "__v": 0,
+        "text": "Unlike humans, cats do not need to blink their eyes on a regular basis to keep their eyes lubricated.",
+        "updatedAt": "2020-02-02T08:21:15.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "78b2c772bf5f5bfbc7342ef7",
+        "__v": 0,
+        "text": "Cats, just like people, are subject to asthma. Dust, smoke, and other forms of air pullution in your cat's environment can be troublesome sources of irritation.",
+        "updatedAt": "2020-03-07T20:24:32.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "85004d66c13b6b782d5bf331",
+        "__v": 0,
+        "text": "Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.",
+        "updatedAt": "2020-10-18T07:52:34.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "93bc976de61cd91f4c802375",
+        "__v": 0,
+        "text": "All cats need taurine in their diet to avoid blindness. Cats must also have fat in their diet as they are unable to produce it on their own.",
+        "updatedAt": "2020-01-27T19:20:29.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "44482cb6fd38107225c61e9d",
+        "__v": 0,
+        "text": "Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs.",
+        "updatedAt": "2020-12-09T03:52:47.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "b4bd4f96482a0ad2518bf5cd",
+        "__v": 0,
+        "text": "The average cat food meal is the equivalent to about five mice.",
+        "updatedAt": "2020-01-18T12:34:35.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "14b4cfc1bed5ccab76bb0f26",
+        "__v": 0,
+        "text": "In Siam, the cat was so revered that one rode in a chariot at the head of a parade celebrating the new king.",
+        "updatedAt": "2020-09-23T20:09:08.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 8
+    },
+    {
+        "_id": "20a76ba62e66b8ab6e66adfd",
+        "__v": 0,
+        "text": "The cat's footpads absorb the shocks of the landing when the cat jumps.",
+        "updatedAt": "2020-10-03T20:20:30.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "89e7f051a378e5bddfdf4273",
+        "__v": 0,
+        "text": "Siamese kittens are born white because of the heat inside the mother's uterus before birth. This heat keeps the kittens' hair from darkening on the points.",
+        "updatedAt": "2020-05-06T02:04:08.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "40a9d47a6942fba1fa8d9ccd",
+        "__v": 0,
+        "text": "There are approximately 60,000 hairs per square inch on the back of a cat and about 120,000 per square inch on its underside.",
+        "updatedAt": "2020-09-21T03:49:52.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "8bdc19c90a97f01578602b78",
+        "__v": 0,
+        "text": "Cats have 30 vertebrae (humans have 33 vertebrae during early development; 26 after the sacral and coccygeal regions fuse)",
+        "updatedAt": "2020-07-09T21:26:19.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "01af9119c9c5d191ab582539",
+        "__v": 0,
+        "text": "A cat has more bones than a human being; humans have 206 and the cat has 230 bones.",
+        "updatedAt": "2020-02-07T08:23:48.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "add30f31825598e9483ea850",
+        "__v": 0,
+        "text": "The silks created by weavers in Baghdad were inspired by the beautiful and varied colors and markings of cat coats. These fabrics were called 'tabby' by European traders.",
+        "updatedAt": "2020-11-28T06:04:00.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "459e691d618edfdf2a9e865d",
+        "__v": 0,
+        "text": "Cats often overract to unexpected stimuli because of their extremely sensitive nervous system.",
+        "updatedAt": "2020-03-26T13:59:14.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "0ccce5594aafe40293e2bec6",
+        "__v": 0,
+        "text": "Cats can jump up to 7 times their tail length.",
+        "updatedAt": "2020-07-14T06:40:57.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "8567e39cf22da84eac26b34d",
+        "__v": 0,
+        "text": "A queen (female cat) can begin mating when she is between 5 and 9 months old.",
+        "updatedAt": "2020-12-07T15:25:11.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "47ccf6e9df89e22482aff46a",
+        "__v": 0,
+        "text": "Milk can give some cats diarrhea.",
+        "updatedAt": "2020-08-26T17:14:44.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "20729a171c04a25d67ee396e",
+        "__v": 0,
+        "text": "The cat appears to be the only domestic companion animal not mentioned in the Bible.",
+        "updatedAt": "2020-12-19T23:01:06.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "8ca0429ec86fba9c832e7893",
+        "__v": 0,
+        "text": "The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years.",
+        "updatedAt": "2020-05-09T05:15:34.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "872c9b7369275cf9d2a3a097",
+        "__v": 0,
+        "text": "A cat's appetite is the barometer of its health. Any cat that does not eat or drink for more than two days should be taken to a vet.",
+        "updatedAt": "2020-12-29T00:25:35.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "bdd49a518d73639ea98aa0c0",
+        "__v": 0,
+        "text": "Unlike humans, cats cannot detect sweetness which likely explains why they are not drawn to it at all.",
+        "updatedAt": "2020-10-17T05:26:52.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "8432ce90f10371dbb2a362d3",
+        "__v": 0,
+        "text": "Ginger tabby cats can have freckles around their mouths and on their eyelids!",
+        "updatedAt": "2020-09-07T13:37:14.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "c3b56da55095a99d340cd9e5",
+        "__v": 0,
+        "text": "A cat has the power to sometimes heal themselves by purring. A domestic cat's purr has a frequency of between 25 and 150 Hertz, which happens to be the frequency at which muscles and bones best grow and repair themselves. ",
+        "updatedAt": "2020-03-19T10:17:40.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "80f5a7c8dcaafad2f5b817b3",
+        "__v": 0,
+        "text": "Cats only use their meows to talk to humans, not each other. The only time they meow to communicate with other felines is when they are kittens to signal to their mother.",
+        "updatedAt": "2020-01-17T08:53:11.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "4e8e32c3427ca2a2327c1de2",
+        "__v": 0,
+        "text": "Despite imagery of cats happily drinking milk from saucers, studies indicate that cats are actually lactose intolerant and should avoid it entirely.",
+        "updatedAt": "2020-08-17T10:10:28.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "401acb01d9adb8c08cd5fce0",
+        "__v": 0,
+        "text": "The longest living cat on record according to the Guinness Book belongs to the late Creme Puff of Austin, Texas who lived to the ripe old age of 38 years and 3 days!",
+        "updatedAt": "2020-12-30T14:56:17.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "070de51be651508f1f4d9ad3",
+        "__v": 0,
+        "text": "The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.",
+        "updatedAt": "2020-06-16T05:58:10.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "9446c69487891ce8aff737fc",
+        "__v": 0,
+        "text": "A cat's cerebral cortex contains about twice as many neurons as that of dogs. Cats have 300 million neurons, whereas dogs have about 160 million. See, cats rule, dogs drool!",
+        "updatedAt": "2020-08-05T20:05:08.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 10
+    },
+    {
+        "_id": "20f453afd703ab6654564e74",
+        "__v": 0,
+        "text": "Polydactyl cats (a cat with 1-2 extra toes on their paws) have this as a result of a genetic mutation. These cats are also referred to as 'Hemingway cats' because writer Ernest Hemingway reportedly owned dozens of them at his home in Key West, Florida.",
+        "updatedAt": "2020-06-22T01:51:55.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "76bec6229e51f11553a5f2f2",
+        "__v": 0,
+        "text": "Sir Isaac Newton is credited with creating the concept for the pet door that many cats use today to travel outdoors.",
+        "updatedAt": "2020-10-30T22:34:49.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 4
+    },
+    {
+        "_id": "234468c9c23d21a5434eb15c",
+        "__v": 0,
+        "text": "The average cat can jump 8 feet in a single bound, nearly six times its body length!",
+        "updatedAt": "2020-07-17T10:34:37.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "e6e45b1eedc684ba33524972",
+        "__v": 0,
+        "text": "A cat's smell is their strongest sense, and they rely on this leading sense to identify people and objects; a feline's sense of smell is 14x better than a human's.",
+        "updatedAt": "2020-09-03T20:10:52.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 11
+    },
+    {
+        "_id": "7e86eda5fef4268391843e76",
+        "__v": 0,
+        "text": "Cats only sweat through their paws and nowhere else on their body",
+        "updatedAt": "2020-07-16T10:04:32.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "ebc1bb6f82aa1f921b1ff66c",
+        "__v": 0,
+        "text": " A cat only has the ability to move their jaw up and down, not side to side like a human can.",
+        "updatedAt": "2020-06-30T14:53:19.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 13
+    },
+    {
+        "_id": "aaa8777a321cd55ecd3bdb33",
+        "__v": 0,
+        "text": "A group of cats is called a clowder.",
+        "updatedAt": "2020-11-23T01:42:34.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    },
+    {
+        "_id": "695320116c35718cd51f6347",
+        "__v": 0,
+        "text": "A female cat can be referred to as a molly or a queen, and a male cat is often labeled as a tom.",
+        "updatedAt": "2020-06-11T20:05:20.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 1
+    },
+    {
+        "_id": "7cc748c09579eaec4e7bef8a",
+        "__v": 0,
+        "text": "A cat has the ability to rotate their ears 180 degrees,with the help of 32 muscles that they use to control them.",
+        "updatedAt": "2020-05-25T20:02:08.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 3
+    },
+    {
+        "_id": "8ab09e3431c542df74ff3de1",
+        "__v": 0,
+        "text": "70% of your cat's life is spent asleep.",
+        "updatedAt": "2020-12-09T10:00:48.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 12
+    },
+    {
+        "_id": "d9a4ac64ad74b9c4d07b68a6",
+        "__v": 0,
+        "text": "A cat's nose is as unique as a human's fingerprint.",
+        "updatedAt": "2020-04-04T03:00:03.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 7
+    },
+    {
+        "_id": "03824dc577752e6395e52b5d",
+        "__v": 0,
+        "text": "Cats have 3 eyelids.",
+        "updatedAt": "2020-06-27T20:06:22.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 6
+    },
+    {
+        "_id": "c6ade18ea8ddde85f6cbf2a7",
+        "__v": 0,
+        "text": "Your cat's heart beats at a rate almost double that of yours, from 110-140 beats per minute.",
+        "updatedAt": "2020-11-22T19:31:37.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 14
+    },
+    {
+        "_id": "2d6fd5caad7ab974258212d8",
+        "__v": 0,
+        "text": "In Ancient Egypt, when a person's house cat passed away, the owner would shave their eyebrows to reflect their grief.",
+        "updatedAt": "2020-03-03T06:24:23.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 15
+    },
+    {
+        "_id": "6536574f13b74f1591d30d60",
+        "__v": 0,
+        "text": "Owning a cat is actually proven to be beneficial for your health.",
+        "updatedAt": "2020-07-29T07:20:57.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 9
+    },
+    {
+        "_id": "44ba28f1580d309be8a8437f",
+        "__v": 0,
+        "text": "Cats prefer to remain non-confrontational. They will not fight to show dominance, but rather to stake their territory. Cats will actually go to extremes to avoid one another in order to prevent a possible confrontation.",
+        "updatedAt": "2020-09-25T08:47:45.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 5
+    },
+    {
+        "_id": "8577f2eedf8e568c1bec1a0e",
+        "__v": 0,
+        "text": "Unlike humans, cats are usually lefties. Studies indicate that their left paw is typically their dominant paw.",
+        "updatedAt": "2020-01-11T01:59:16.000Z",
+        "deleted": false,
+        "source": "api",
+        "sentCount": 0
+    }
+]
