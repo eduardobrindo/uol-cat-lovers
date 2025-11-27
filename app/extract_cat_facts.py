@@ -99,6 +99,7 @@ def transform_data(raw_data: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
             'fact_id': item.get('_id'),
             'version': item.get('__v'),
             'text': item.get('text'),
+            'created_at': item.get('updatedAt'),
             'updated_at': item.get('updatedAt'),
             'deleted': item.get('deleted'),
             'source': item.get('source'),
@@ -120,7 +121,7 @@ def save_csv(data: List[Dict[str, Any]]) -> None:
 
     try:
         # Columns header - MUST match the SQL Create Table definition
-        columns = ['fact_id', 'version', 'text', 'updated_at', 'deleted', 'source', 'sent_count']
+        columns = ['fact_id', 'version', 'text', 'created_at', 'updated_at', 'deleted', 'source', 'sent_count']
         
         with open(filename, mode='w', newline='', encoding='utf-8') as f:
             writer = csv.DictWriter(f, fieldnames=columns)
