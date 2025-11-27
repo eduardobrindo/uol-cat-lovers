@@ -2,8 +2,11 @@ import json
 import csv
 import logging
 import os
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from datetime import datetime
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 # Professional Logging Configuration
 logging.basicConfig(
@@ -16,9 +19,51 @@ def generate_output_filename() -> str:
     Generates a CSV filename with a timestamp in YYYYMMDDHH24MISS format.
     Example: cat_facts_20251127093000.csv
     """
-    # %Y=Year, %m=Month, %d=Day, %H=Hour(24h), %M=Minute, %S=Second
     timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
     return f"cat_facts_{timestamp}.csv"
+
+def fetch_data_from_api(url: str, amount: int = 500) -> Optional[List[Dict[str, Any]]]:
+    """
+    Attempts to fetch data from the API with a retry mechanism (3 attempts).
+    Returns None if all attempts fail.
+    """
+    # Configuration for Retries
+    retry_strategy = Retry(
+        total=3,  # Total number of retries
+        backoff_factor=1,  # Wait 1s, 2s, 4s between retries
+        status_forcelist=[429, 500, 502, 503, 504],  # Retry on these errors
+        allowed_methods=["GET"]
+    )
+    
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    http = requests.Session()
+    http.mount("https://", adapter)
+    http.mount("http://", adapter)
+
+    params = {
+        'animal_type': 'cat',
+        'amount': amount
+    }
+
+    try:
+        logging.info(f"Attempting to fetch data from API: {url}")
+        response = http.get(url, params=params, timeout=10)
+        response.raise_for_status()
+        
+        data = response.json()
+        
+        # Ensure we return a list
+        if isinstance(data, list):
+            logging.info(f"✅ Success! {len(data)} records fetched from API.")
+            return data
+        elif isinstance(data, dict):
+            return [data]
+        
+    except requests.exceptions.RequestException as e:
+        logging.warning(f"⚠️ API request failed after 3 attempts: {e}")
+        return None
+        
+    return None
 
 def load_json_data(file_path: str) -> List[Dict[str, Any]]:
     """
@@ -29,10 +74,10 @@ def load_json_data(file_path: str) -> List[Dict[str, Any]]:
         return []
 
     try:
-        logging.info(f"Loading data from file: {file_path}")
+        logging.info(f"🔄 Fallback: Loading data from local file: {file_path}")
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            logging.info(f"Success! {len(data)} records loaded.")
+            logging.info(f"✅ Success! {len(data)} records loaded from local file.")
             return data
     except json.JSONDecodeError as e:
         logging.error(f"Error decoding JSON: {e}")
@@ -49,7 +94,7 @@ def transform_data(raw_data: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     transformed_data = []
     
     for item in raw_data:
-        # Mapping: SQL Column Name <- API/JSON Key
+        # Handling potential missing keys safely
         new_item = {
             'fact_id': item.get('_id'),
             'version': item.get('__v'),
@@ -89,14 +134,22 @@ def save_csv(data: List[Dict[str, Any]]) -> None:
 
 if __name__ == "__main__":
     # Configuration
-    INPUT_FILE = "mock_cat_facts.json"
+    API_URL = "https://cat-fact.herokuapp.com/facts/random"
+    MOCK_FILE = "mock_cat_facts.json"
     
-    # 1. Extraction (Load from local JSON)
-    raw_data = load_json_data(INPUT_FILE)
+    # 1. Extraction Strategy (API First -> Fallback to Mock)
+    raw_data = fetch_data_from_api(API_URL, amount=500)
     
+    if not raw_data:
+        logging.warning("⚠️ API is unavailable. Switching to local mock data.")
+        raw_data = load_json_data(MOCK_FILE)
+    
+    # 2. Process Data if available
     if raw_data:
-        # 2. Transformation (Map fields to Schema)
+        # Transformation (Map fields to Schema)
         clean_data = transform_data(raw_data)
         
-        # 3. Load (Save to CSV with timestamp)
+        # Load (Save to CSV with timestamp)
         save_csv(clean_data)
+    else:
+        logging.error("❌ Critical Failure: Could not load data from API or Mock file.")
