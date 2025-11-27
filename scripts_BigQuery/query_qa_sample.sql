@@ -13,6 +13,7 @@ BEGIN
   CREATE OR REPLACE TEMP TABLE _SESSION.temp_qa_sample AS
   SELECT 
     text,
+    created_at,
     updated_at
   FROM 
     `dante-causa.analytics.cat_facts`

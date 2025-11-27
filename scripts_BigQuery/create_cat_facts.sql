@@ -2,6 +2,7 @@ CREATE TABLE `dante-causa.analytics.cat_facts` (
   fact_id STRING OPTIONS(description="Unique ID for the Fact"),
   version INT64 OPTIONS(description="Version number of the Fact"),
   text STRING OPTIONS(description="The Fact itself"),
+  created_at TIMESTAMP OPTIONS(description="Date in which Fact was created"),
   updated_at TIMESTAMP OPTIONS(description="Date in which Fact was last modified"),
   deleted BOOLEAN OPTIONS(description="Whether the Fact has been soft-deleted"),
   source STRING OPTIONS(description="Source from which the fact was found. Typically a URL"),
